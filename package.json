@@ -17,8 +17,8 @@
     "react-dom": "19.0.0",
     "react-native": "0.79.2",
     "react-native-web": "^0.20.0",
-    "expo-router": "~4.0.20",
-    "expo-splash-screen": "~0.29.22"
+    "expo-router": "~5.0.7",
+    "expo-splash-screen": "~0.30.8"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
